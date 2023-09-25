@@ -70,7 +70,6 @@ section, footer {
 
 .project {
     display: flex;
-    background-color: var(--offwhite);
     /* vertical center the text */
     align-items: center; 
 }
@@ -91,9 +90,9 @@ footer {
     text-align: center;
 }
 
-
-
-
-
+.dark-mode {
+    color: #E4E6EB;
+    background-color: #818181;
+}
 
 
