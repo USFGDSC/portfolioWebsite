@@ -70,7 +70,6 @@ section, footer {
 
 .project {
     display: flex;
-    background-color: var(--offwhite);
     /* vertical center the text */
     align-items: center; 
 }
